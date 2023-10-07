@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 
-@RestController
+
 @RequestMapping("/user/dish")
 @Slf4j
 @Api(tags="g根据id查询菜品")
